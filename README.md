@@ -33,12 +33,17 @@ Total 4 resources and 9 API request implemented in the client.
 
 2. Templates: Contain templates of the client. Here we have used...
 	-index.html for showing all events, update and delete events.
+	
 	-add_events.html for submiting/creating new events
+	
 	-all_members.html for showing all members, creating, updating and deleting individual members
 
 3. JS- this repository contains 3 javascripts files that follow vue.js library format coding. 
+
 	-appEvents.js controll action of getting all events by GET request, Delete an event by DELETE request
+	
 	-appAddEvents.js controll action of cretaing new events by sending POST request
+	
 	-appMember.js controll action of getting all member by sending GET request, creating new member by 
 	 POST request, Updating member details by PUT request and deleting an member by DELETE request.
 
