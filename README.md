@@ -11,8 +11,8 @@ We have developd a working  web client  to test our API. Our Client do not requi
 
 # External API
 We have used to two external API to work with our own API.
-1. Google Map API: have been used to show location of the Events and auto fill-up location during adding new events.
-2. Weather API used to show wather based on event location.
+1. Google Map API: have been used to show location of the Events and auto fill-up location during creating new events.
+2. Weather API used to show weather based on event location.
 
 # API Resources Implemented in Client
 Total 4 resources and 9 API request implemented in the client.<br>
@@ -34,7 +34,6 @@ Total 4 resources and 9 API request implemented in the client.<br>
 2. Templates: Contain templates of the client. Here we have used...<br>
 	-index.html for showing all events, update and delete events<br>	
 	-add_events.html for submiting/creating new events<br>
-	
 	-all_members.html for showing all members, creating, updating and deleting individual members
 
 3. JS- this repository contains 3 javascripts files that follow vue.js library format coding.<br>
